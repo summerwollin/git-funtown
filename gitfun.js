@@ -1,3 +1,6 @@
+Avoiding merge conflict
+
+
 sdcsdcsc
 aslksclkncslknsc
 change
